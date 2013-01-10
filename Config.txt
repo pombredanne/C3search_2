@@ -1,0 +1,24 @@
+################################################
+#TokenizeTarget code:0 comment:1 code&comment 2
+#SortStrategy Frequency:0 random:1
+#TokenMinimunSize 3
+#UsingGoogleCodeSearch true
+#UsingGithub true
+#UsingSearchco false //actually not implemented
+#MaxResultNumberPerEngine 99
+#MaxKeyWordNumber 10
+#Language Jave:0 Cpp:1 C:2
+#UsingFileName false
+#################################################
+
+TokenizeTarget 0
+SortStrategy 0
+TokenMinimunSize 3
+UsingGoogleCodeSearch true
+UsingGithubSearch true
+UsingSearchco true
+MaxResultNumberPerEngine 99
+MaxKeyWordNumber 10
+Language 0
+UsingFileName true
+IterationNumber 2
